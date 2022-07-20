@@ -1,34 +1,38 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# Movie App
 
-First, run the development server:
+This is a Movie App. An application that allows you to get popular movies and series, watch trailers, actors and get information about any movie you can imagine. The application is made using Next js and other technologies listed below.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Technologies
+ 
+Project is created with : 
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+- [Next js](https://nextjs.org)
+- [react-modal-video](https://www.npmjs.com/package/react-modal-video)
+- [react-slick](https://react-slick.neostack.com)
+- [react-multi-carousel](https://react-multi-carousel.surge.sh)
+- [Bootstrap](https://getbootstrap.com)
+- [Sass](https://sass-lang.com)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+## Screenshots
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+![Screenshot_1](https://user-images.githubusercontent.com/86678700/179934052-37720662-af2e-40b4-9abf-ee46e0d63601.png)
 
-## Deploy on Vercel
+![Screenshot_8](https://user-images.githubusercontent.com/86678700/179934198-2350ac4f-41df-4921-b966-657b02dea57b.png)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![Screenshot_2](https://user-images.githubusercontent.com/86678700/179934283-f2e1ec27-daed-4b39-8943-c6c5771d51b9.png)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![Screenshot_3](https://user-images.githubusercontent.com/86678700/179934354-6dad1267-8704-40d2-b446-da920f3cc00f.png)
+
+![Screenshot_4](https://user-images.githubusercontent.com/86678700/179934436-2bfee161-35e5-4270-afc2-721309aa757f.png)
+
+![Screenshot_5](https://user-images.githubusercontent.com/86678700/179934515-04fcee4d-9c21-40bd-a52b-54cea249cfbe.png)
+
+
+
+
