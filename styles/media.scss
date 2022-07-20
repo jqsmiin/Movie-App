@@ -1,0 +1,204 @@
+@media(max-width : 1200px){
+    #top_rated{
+        .result-container{
+            img{
+                width: 340px !important;
+            }
+            &::after{
+                width: 340px !important;
+            }
+            .text-content{
+                padding: 0 3rem !important;
+            }
+        }
+    }
+    #popular, #movie-search{
+        .item{
+            padding: 20px 13px !important;
+        }
+    }
+    #tv-info{
+        .tv-item-3{
+            .actor-container{
+                .actor-content{
+                    padding: 19px !important;
+                }
+            }
+            .recomended-content{
+                img{
+                    width: 215px !important;
+                }
+            }
+        }
+    }
+}
+@media(max-width : 990px){
+ #navbar{
+     .input-group{
+        width: 91% !important;
+     }
+ }   
+ #popular{
+    .result-container{
+        margin-bottom: 0 !important;
+        img{
+            width: 260px !important;
+        }
+        &:hover{
+            &::after{
+                left: 35px !important;
+                right: 35px !important;
+            }
+        }
+    }
+ }
+ #top_rated{
+  .result-container{
+    img{
+        width: 296px !important;
+    }
+    &::after{
+        width: 296px !important;
+    }
+    .text-content{
+        padding: 0 2.5rem !important;
+        h2{
+            font-size: 18px !important;
+        }
+    }
+  }
+ }
+ #tv-info{
+    .tv-item-3{
+        .actor-container{
+            img{
+                width: 175px !important;
+            }
+        }
+    }
+ }
+}
+@media(max-width : 800px){
+ #popular{
+    .result-container{
+        img{
+            width: 74% !important;
+        }
+    }
+ }
+ #top_rated{
+     .result-container{
+       img{
+         width: 90% !important;
+       }
+       &::after{
+         width: 90% !important;
+       }
+     }
+ }
+ #tv-info{
+    .tv-item-3{
+        .actor-container{
+            img{
+                width: 164px !important;
+            }
+            .actor-content{
+                padding: 19px !important;
+                h3{
+                    font-size: 19px !important;
+                }
+                h4{
+                    font-size: 14px !important;
+                    padding: 0 1rem !important;
+                }
+            }
+        }
+    }
+ }
+}
+@media(max-width : 573px){
+ #popular-tv, #movie-search{
+    img{
+        width: 255px !important;
+    }
+    .item{
+        display: flex !important;
+        flex-direction: column !important;
+        justify-content: center !important;
+        align-items: center !important;
+    }
+ }
+}
+@media(max-width : 480px){
+ section{
+    margin-bottom: 5rem !important;
+ }
+ #top_rated{
+    .slick-dots{
+        bottom: -60px !important;
+    }
+ }
+ #popular{
+    .result-container{
+        &:hover{
+            &::after{
+                left: 48px !important;
+                right: 48px !important;
+            }
+        }
+    }
+ }
+ #navbar{
+    .col-md-4{
+        display: flex !important;
+        justify-content: center !important;
+        ul{
+         padding-left: 0 !important;
+        }
+    }
+    .input-group{
+      width: 100% !important;
+    }
+    input{
+        padding: 12px 20px !important;
+        font-size: 12px !important;
+    }
+ }
+ #tv-info{
+    .slick-prev{
+        left: -2px !important;
+        z-index: 5;
+    }
+    .slick-dots{
+        bottom: -65px !important;
+    }
+    .slick-next{
+        right: -2px !important;
+        z-index: 5;
+    }
+    .tv-item{
+        .items{
+            flex-wrap: wrap !important;
+            gap: 0 !important;
+        }
+    }
+    .tv-item-3{
+        .actor-container{
+            img{
+                width: 243px !important;
+            }
+            .actor-content{
+                padding: 37px !important;
+                h3{
+                    font-size: 28px !important;
+                }
+                h4{
+                    font-size: 18px !important;
+                    padding: 0 1rem !important;
+                }
+            }
+        }
+    }
+     
+ }
+}
