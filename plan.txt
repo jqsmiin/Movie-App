@@ -1,4 +1,0 @@
-Omoguciti klikanje na film na home i tv shows stranicama
-Omoguciti da se pomocu entera searcha film
-Optimizovati kod
-Optimizovati slike
